@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/app":{"mount_options":["dmode=777","fmode=777","uid=1000","gid=1000"],"guestpath":"/var/www/app","hostpath":"/Users/tsm_02/Desktop/TestApp/app","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/tsm_02/Desktop/TestApp","disabled":false,"__vagrantfile":true}}}
